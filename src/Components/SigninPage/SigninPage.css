@@ -1,0 +1,52 @@
+
+.signinPage_img{
+    width: 200px;
+    max-height: 100px;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.signinPage_input{
+    width: 420px;
+    height: 460px;
+    border:  1px solid;
+    margin-left: 320px;
+    border-radius: 7px;
+    z-index: 2;
+}
+.signinPage_input input{
+    border: 2px solid ;
+width: 350px;
+border-radius: 5px;
+
+}
+.signinPage_input_text{
+    margin: 30px 20px;
+}
+.signinPage_input h2{
+margin-bottom: 20px;
+}
+.signin_button{
+    width: 350px; 
+    background-color: yellow;
+    padding: 10px;
+ margin-top: 20px;
+ margin-bottom: 10px;
+}
+.createacoutnt_button{
+    width: 350px; 
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+.password_input{
+    display: flex;
+}
+.password_input small{
+    margin: 10px auto;
+    margin-left: -30px;
+}
+.signinPage{
+    align-items: center;
+}

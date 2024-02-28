@@ -1,0 +1,8 @@
+.HomePageComponentWrapper__div{
+display: flex;
+justify-content: space-around;
+}
+.HomePageComponentWrapper{
+    background-color: whitesmoke;
+
+}

@@ -1,0 +1,110 @@
+*{
+margin: 0;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    display: flex;
+}
+.first-wrapper{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+.inputWrapper{
+    display: flex;
+    width: 80%;
+    
+    width: 600px;
+    height: 30px;
+}
+.logo{
+    height: 60px;
+    width: 80px;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+    
+
+}
+.map-icon{
+    display: flex;
+    filter: brightness(0) invert(1);
+}
+
+.allWrapper{
+    border: 0px solid;
+    height: 22px;;
+    width: 40px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(234, 228, 218);
+    border-top-left-radius:7px ;
+    border-bottom-left-radius:7px ;
+    color: black;
+    /* color: white;
+    background-color:white; */
+}
+input{
+    width: 550px;
+    height: 40px;
+    border: 0px solid;
+    outline: none;
+}
+.search-icon{
+    border: 0px solid;
+    height: 22px;;
+    width: 40px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(229, 147, 23);
+    border-top-right-radius:7px ;
+    border-bottom-right-radius:7px ;
+
+}
+.sign-in{
+    list-style: none;
+    color: white;
+}
+.cart{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+.itemeCoutnter{
+    margin-left: 15px;
+}
+/* second wrapper css starts here */
+.second-wrapper{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+}
+
+/* header2 wrapper css starts here */
+.header2{
+    display: flex;
+    justify-content: space-between;
+background-color: rgb(45, 45, 91);
+color: white;
+padding: 10px;
+}
+.header2-first-wrapper{
+    display: flex;
+}
+
+.ul-wrapper ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    margin-right: 20px;
+}
+.recorder-wrapper{
+    display: flex;
+}
+.sign-in{
+margin-left: 30px;
+}

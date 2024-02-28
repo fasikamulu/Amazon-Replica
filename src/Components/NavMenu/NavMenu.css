@@ -1,0 +1,17 @@
+.navMenu{
+    width: 300px;
+    background-color: rgb(44, 38, 38);
+    height: 100%;
+    color: white;
+    margin-left: 5px;
+}
+button{
+    background-color: green;
+    padding: 10px;
+    /* font-size: 30px; */
+}
+.navMenu_hide{
+    background-color: green;
+    border-bottom: 1px;
+    font-size: 30px;
+}
